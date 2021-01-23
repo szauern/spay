@@ -1,6 +1,7 @@
 {
     "name": "szauern/spay",
     "type": "library",
+    "version": "2.3",
     "description": "SPay SDK",
     "authors": [
         {
