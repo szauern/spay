@@ -1,6 +1,6 @@
 <?php
 
-namespace szauern\spay\SPay;
+namespace szauern\spay;
 
 class SPay
 {
