@@ -1,0 +1,24 @@
+{
+    "name": "szauern/spay",
+    "type": "library",
+    "description": "SPay SDK",
+    "authors": [
+        {
+            "name": "Nandor Szauer",
+            "email": "szauern@gmail.com"
+        },
+    ],
+    "require": {
+        "php": ">=7.2.0",
+        "ext-ctype": "*",
+        "ext-filter": "*",
+        "ext-hash": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "szauern\\spay\\": "src/"
+        }
+    },
+    "license": "LGPL-2.1-only"
+}
+
