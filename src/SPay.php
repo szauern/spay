@@ -1,8 +1,8 @@
 <?php
 
-namespace szauern\spay;
+namespace szauern\SPay;
 
-class spay
+class SPay
 {
  public function whoami()
  {
