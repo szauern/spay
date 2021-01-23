@@ -2,7 +2,7 @@
 
 namespace szauern\spay;
 
-class SPay
+class spay
 {
  public function whoami()
  {
