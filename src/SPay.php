@@ -1,3 +1,10 @@
 <?php
 
-print "SPay";
+class SPay
+{
+ public function whoami()
+ {
+   print "SPay";
+ }
+}
+
